@@ -15,3 +15,5 @@ Todo
 - [ ] Matrix
 - [ ] Misc
 - [ ] Advanced Data Structure
+
+ssh to gh - https://www.freecodecamp.org/news/manage-multiple-github-accounts-the-ssh-way-2dadc30ccaca/
